@@ -941,9 +941,9 @@ grep -i error ~/.claude/logs/claude.log
 
 ### 7.3 도움 요청 방법
 
-1. **GitHub Issues**: [https://github.com/popup-studio-ai/bkit-starter/issues](https://github.com/popup-studio-ai/bkit-starter/issues)
+1. **GitHub Issues**: [https://github.com/ww-w-ai/bkit-starter/issues](https://github.com/ww-w-ai/bkit-starter/issues)
 
-2. **이메일**: contact@popupstudio.ai
+2. **이메일**: biz@ww-w.ai
 
 **도움 요청 시 포함할 정보:**
 - Claude Code 버전: `claude --version`
@@ -1052,7 +1052,7 @@ jobs:
 
 ### 8.3 커뮤니티 참여
 
-- **GitHub에 Star 주기**: [bkit-starter](https://github.com/popup-studio-ai/bkit-starter)
+- **GitHub에 Star 주기**: [bkit-starter](https://github.com/ww-w-ai/bkit-starter)
 - **Issues에 피드백 남기기**: 개선 아이디어, 버그 리포트
 - **PR로 기여하기**: 문서 개선, 새 기능 제안
 
@@ -1070,7 +1070,7 @@ jobs:
 - [Anthropic Discord](https://discord.gg/anthropic)
 
 ### 관련 프로젝트
-- [bkit-claude-code](https://github.com/popup-studio-ai/bkit-claude-code) - 고급 확장 버전
+- [bkit-claude-code](https://github.com/ww-w-ai/bkit-claude-code) - 고급 확장 버전
 
 ### 추천 글
 - [Boris Cherny's 13 Tips](https://howborisusesclaudecode.com/)
@@ -1079,4 +1079,4 @@ jobs:
 
 ---
 
-Made with ❤️ by [POPUP STUDIO](https://popupstudio.ai)
+Made with ❤️ by [DubDubDub Corp.](https://ww-w.ai)

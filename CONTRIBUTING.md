@@ -52,4 +52,4 @@ By contributing, you agree that your contributions will be licensed under the MI
 
 ## Questions?
 
-Feel free to open a discussion or contact us at contact@popupstudio.ai
+Feel free to open a discussion or contact us at biz@ww-w.ai
