@@ -156,8 +156,8 @@ claude
 ## 다음 단계
 
 - **상세 가이드**: [GUIDE.md](GUIDE.md) - FAQ, 문제 해결, 고급 설정
-- **고급 사용자**: [bkit](https://github.com/popup-studio-ai/bkit-claude-code) - PDCA 방법론, 18개 커맨드
+- **고급 사용자**: [bkit](https://github.com/ww-w-ai/bkit-claude-code) - PDCA 방법론, 18개 커맨드
 
 ---
 
-Made with ❤️ by [POPUP STUDIO](https://popupstudio.ai)
+Made with ❤️ by [DubDubDub Corp.](https://ww-w.ai)

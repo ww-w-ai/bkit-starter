@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Claude Code 초보자를 위한 한글 학습 가이드 및 설정 템플릿",
   "author": {
-    "name": "POPUP STUDIO PTE. LTD.",
-    "email": "contact@popupstudio.ai",
-    "url": "https://popupstudio.ai"
+    "name": "DubDubDub Corp.",
+    "email": "biz@ww-w.ai",
+    "url": "https://ww-w.ai"
   },
-  "repository": "https://github.com/popup-studio-ai/bkit-starter",
+  "repository": "https://github.com/ww-w-ai/bkit-starter",
   "license": "MIT",
   "keywords": [
     "claude-code",

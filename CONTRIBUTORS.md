@@ -4,11 +4,11 @@ Thank you to all the contributors who have helped make bkit-starter better!
 
 ## Core Team
 
-### POPUP STUDIO PTE. LTD.
+### DubDubDub Corp.
 
 - **Role**: Creator and Primary Maintainer
-- **Website**: [popupstudio.ai](https://popupstudio.ai)
-- **Email**: contact@popupstudio.ai
+- **Website**: [ww-w.ai](https://ww-w.ai)
+- **Email**: biz@ww-w.ai
 
 ## How to Contribute
 

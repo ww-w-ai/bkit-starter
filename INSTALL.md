@@ -30,7 +30,7 @@ Claude Code의 플러그인 시스템은 **마켓플레이스**와 **플러그�
 Claude Code에서 아래 명령어를 **그대로** 입력하고 **Enter**를 누릅니다:
 
 ```bash
-/plugin marketplace add popup-studio-ai/bkit-claude-code
+/plugin marketplace add ww-w-ai/bkit-claude-code
 ```
 
 ![Step 1 - 마켓플레이스 추가 명령어 입력](screenshots/install-step1-command.png)
@@ -39,7 +39,7 @@ Claude Code에서 아래 명령어를 **그대로** 입력하고 **Enter**를 �
 
 ## Step 2. 마켓플레이스 추가 확인
 
-`popup-studio-ai/bkit-claude-code`가 자동으로 선택되어 있습니다.
+`ww-w-ai/bkit-claude-code`가 자동으로 선택되어 있습니다.
 
 1. **Enter** 키를 눌러 추가합니다
 

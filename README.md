@@ -48,7 +48,7 @@ Claude Code는 AI가 직접 코드를 작성하고 실행하는 도구입니다.
 
 > **이미 Claude Code에 익숙하신가요?**
 >
-> [bkit-claude-code](https://github.com/popup-studio-ai/bkit-claude-code)로 업그레이드하세요!
+> [bkit-claude-code](https://github.com/ww-w-ai/bkit-claude-code)로 업그레이드하세요!
 >
 > - PDCA 방법론으로 체계적인 개발
 > - 18개 전문 커맨드
@@ -66,7 +66,7 @@ Claude Code는 AI가 직접 코드를 작성하고 실행하는 도구입니다.
 
 ```bash
 # 1. 마켓플레이스 추가
-/plugin marketplace add popup-studio-ai/bkit-claude-code
+/plugin marketplace add ww-w-ai/bkit-claude-code
 
 # 2. 플러그인 활성화
 /plugin enable bkit-starter
@@ -137,8 +137,8 @@ Claude Code는 AI가 직접 코드를 작성하고 실행하는 도구입니다.
 
 이슈와 PR을 환영합니다!
 
-- [Issues](https://github.com/popup-studio-ai/bkit-starter/issues)
-- [Pull Requests](https://github.com/popup-studio-ai/bkit-starter/pulls)
+- [Issues](https://github.com/ww-w-ai/bkit-starter/issues)
+- [Pull Requests](https://github.com/ww-w-ai/bkit-starter/pulls)
 
 ---
 
@@ -148,4 +148,4 @@ MIT License - [LICENSE](LICENSE)
 
 ---
 
-Made with ❤️ by [POPUP STUDIO](https://popupstudio.ai)
+Made with ❤️ by [DubDubDub Corp.](https://ww-w.ai)
